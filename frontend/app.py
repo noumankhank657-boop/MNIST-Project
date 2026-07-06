@@ -3,7 +3,7 @@ import numpy as np
 import requests
 from PIL import Image
 
-BASE_URL = "https://saqib21-ann-mnist-backend.hf.space"
+BASE_URL = "https://muhammadnuman-mnist-backend-nouman.hf.space"
 
 st.set_page_config(page_title="Digit Recognizer", page_icon="🔢", layout="centered")
 
