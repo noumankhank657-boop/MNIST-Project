@@ -97,7 +97,7 @@ The backend API was developed using FastAPI with a `/predict` route and Deployed
 
 ## Frontend Deployment
 
-The frontend of this project was developed using Streamlit and deployed successfully. The web application allows users to upload a handwritten digit image for prediction. Frontend Deployed URL: https://ann-mnist-project.streamlit.app/
+The frontend of this project was developed using Streamlit and deployed successfully. The web application allows users to upload a handwritten digit image for prediction. Frontend Deployed URL: https://mnist-project-numan.streamlit.app/
 
 ### How it Works
 1. The user uploads a handwritten digit image.
